@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<orders>
+	<order clientId="5514836W" orderId="1" status="1">
+		<article>
+			<order_id>1</order_id>
+			<article_id>513</article_id>
+			<quantity>10</quantity>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+		<article>
+			<order_id>1</order_id>
+			<article_id>233</article_id>
+			<quantity>10</quantity>
+			<unitatsServides>0</unitatsServides>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+		<article>
+			<order_id>1</order_id>
+			<article_id>953</article_id>
+			<quantity>10</quantity>
+			<unitatsServides>0</unitatsServides>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+	</order>
+
+	<order clientId="2253991C" orderId="2" status="1">
+		<article>
+			<order_id>2</order_id>
+			<article_id>513</article_id>
+			<quantity>10</quantity>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+		<article>
+			<order_id>2</order_id>
+			<article_id>233</article_id>
+			<quantity>10</quantity>
+			<unitatsServides>0</unitatsServides>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+		<article>
+			<order_id>2</order_id>
+			<article_id>953</article_id>
+			<quantity>10</quantity>
+			<unitatsServides>0</unitatsServides>
+			<servedUnits>0</servedUnits>
+			<price>10</price>
+			<status>0</status>
+		</article>
+	</order>
+
+
+</orders>
